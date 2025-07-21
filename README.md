@@ -1,2 +1,2 @@
-# WatermarkMakerSinple
+# WatermarkMakerSimple
 
